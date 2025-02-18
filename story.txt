@@ -1,0 +1,42 @@
+# A1
+Explore the room for clues,Sam discovers an ID badge labeled “Project Echo” and a locked safe with strange symbols. ID badge and locked safe labeled "Property of Project Echo."
+
+#A11 Attempt to open the safe.,The safe reveals a holographic key and a hidden map of the facility.
+#A12 Leave the room and find help.,A faint voice echoes: "Sam... they're coming for you." Sam exits into the corridor.
+
+# B1
+Exit through the only open door,Sam enters a dim corridor lined with flickering screens showing riots, explosions, and his face leading a rebellion.
+
+#B11 Investigate the screens.,One screen shows a live feed of a shadowy figure moving toward Sam.
+#B12 Keep walking toward a distant sound.,Sam hears a rhythmic pounding possibly footsteps or machinery.
+
+
+Mid-Point Twist: Common Event
+No matter the choices, Sam finds a hidden chamber with a holographic recording of their past self.
+Holographic Sam:
+"If you're seeing this, it means they've wiped your memory. You were part of Project Echo, and the truth is dangerous. Choose wisely: the world depends on it."
+
+
+# New Section : 
+
+# A2
+Attempt to restore memories using the control panel.,Sam regains memories of leading a rebellion against a dystopian regime. Sam remembers leading a rebellion and regains critical knowledge about the regime’s weaknesses.
+
+# A21 Rejoin the resistance, Ending: Sam leads the rebellion to victory but loses personal freedom as they become a symbol of the cause.
+# A22 Work alone to dismantle the regime, Ending: Sam becomes a rogue agent feared by the regime and admired by rebels.
+
+# B2
+Destroy the control panel to prevent tampering.,Sam ensures their memories stay erased to prevent further danger. Sam remains amnesiac but avoids risking dangerous information falling into the wrong hands.
+
+# B21 Seek out the rebellion,Ending: Sam joins the resistance as a mystery figure inspiring hope despite their forgotten past.
+# B22 Disappear into the world,Ending: Sam vanishes living a quiet life while the regime crumbles without their direct involvement.
+
+# C2
+Avoid both actions.,A hidden door opens leading to an escape route. Sam avoids the control panel and leaves the facility.
+
+# C21 Embrace freedom and build a new life,Ending: Sam starts anew unaware of their pivotal role in the rebellion’s eventual victory.
+# C22 Investigate remnants of the rebellion,Ending: Sam uncovers fragments of their past reigniting the fight in unexpected ways.
+
+
+
+

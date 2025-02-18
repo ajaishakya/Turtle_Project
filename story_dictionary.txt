@@ -1,0 +1,23 @@
+Explore the room for clues,Sam discovers an ID badge and a locked safe labeled "Property of Project Echo," with strange symbols.
+Exit through the only open door,Sam enters a dim corridor lined with flickering screens showing riots, explosions, and his face leading a rebellion.
+Attempt to open the safe.,The safe reveals a holographic key and a hidden map of the facility.
+Leave the room and find help.,A faint voice echoes: "Sam... they're coming for you." Sam exits into the corridor.
+Investigate the screens.,One screen shows a live feed of a shadowy figure moving toward Sam.
+Keep walking toward a distant sound.,Sam hears a rhythmic pounding possibly footsteps or machinery.
+
+Attempt to restore memories using control panel.,Sam regains memories of leading a rebellion against a dystopian regime and gains critical knowledge about its weaknesses.
+Destroy the control panel to prevent tampering.,Sam ensures their memories stay erased to prevent danger, remaining amnesiac to avoid risking dangerous information falling into the wrong hands.
+Avoid both actions.,A hidden door opens leading to an escape route. Sam avoids the control panel and leaves the facility.
+
+Rejoin the resistance,Ending: Sam leads the rebellion to victory but loses personal freedom as they become a symbol of the cause.
+Work alone to dismantle the regime,Ending: Sam becomes a rogue agent feared by the regime and admired by rebels.
+
+Seek out the rebellion,Ending: Sam joins the resistance as a mystery figure inspiring hope despite their forgotten past.
+Disappear into the world,Ending: Sam vanishes living a quiet life while the regime crumbles without their direct involvement.
+
+Embrace freedom and build a new life,Ending: Sam starts anew unaware of their pivotal role in the rebellion’s eventual victory.
+Investigate remnants of the rebellion,Ending: Sam uncovers fragments of their past reigniting the fight in unexpected ways.
+
+
+
+
